@@ -1,0 +1,4 @@
+chromidriver.exe
+scraper_checkerpoints.json
+chrome_session
+venv/
